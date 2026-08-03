@@ -34,6 +34,11 @@ C:\Turboc3\BGI
 
 5. Run (Ctrl + F9)
 
-## Author
+## Screenshots
 
-Urmila Pawar
+### Game Start Screen
+![Screenshot 1](Screenshot%201.png)
+
+### Game Output Screen
+![Screenshot 2](Screenshot%202.png)
+
